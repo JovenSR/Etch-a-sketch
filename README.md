@@ -10,4 +10,4 @@ Etch-a-skecth is a project inspired by The Odin Project.
 
 - Can change the highlight color
 
-CSS Grid is being used for the layout. Vanilla JavaScript and a bit of JQuery is used for DOM manipulation.
+CSS Grid is being used for the layout. Vanilla JavaScript and a bit of JQuery is used for DOM manipulation. iro.js is used for the color picker API.
