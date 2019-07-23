@@ -3,11 +3,11 @@ const highlight = document.querySelector('#highlight');
 const button2 = document.querySelector('#button2');
 const gridColor = document.querySelector('#gridColor');
 
-var colorPicker1 = new iro.ColorPicker(highlight, {
+const colorPicker1 = new iro.ColorPicker(highlight, {
 		color: '#f00'
 	});;
 
-var colorPicker2 = new iro.ColorPicker(gridColor, {
+const colorPicker2 = new iro.ColorPicker(gridColor, {
 		color: '#f00'
 	});;
 
